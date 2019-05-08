@@ -1,0 +1,19 @@
+we can use a kind of kernel to make our non-linear data into more linear
+
+one of the example is -> radial based f (RBF)
+
+every client has linear regression ==> easier to go for production
+
+since everything is linear we could use bayesian estimator
+
+very FLEXIBLE and INTERPRETABLE
+
+models (GBF)  wont automagically make stuffs work!
+
+to minimize error -> weighted linear regression | ridge regression | giving importance to error measurement
+
+OPTIMISE THY HYPERPARS!
+
+passive agressife algorithm
+
+AA or Arandom testing baseline
