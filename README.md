@@ -1,4 +1,4 @@
-#Welcome to my bad-written notes
+# Welcome to my bad-written notes
 
-##Note:
+## Note:
 1) cramer alr happen, time to make it more modular
